@@ -1,5 +1,5 @@
 body {
-  width: 960px;
+  width: 60rem;
   margin: auto;
 }
 
@@ -55,12 +55,12 @@ body {
 }
 
 .iicrclogo {
-  width: 200px;
+  width: 12.5rem;
   display: inline;
 }
 
 .hrslogo {
-  width: 200px;
+  width: 12.5rem;
   display: inline;
 }
   
