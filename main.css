@@ -43,8 +43,8 @@
 
 /* Time for some logo editing, for the header */
 .logo {
-  width = 70%;
-  height = 70%;
+  width: 70%;
+  height: 70%;
   display: block;
   margin-left: auto;
   margin-right: auto;
