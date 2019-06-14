@@ -62,5 +62,6 @@ body {
 .hrslogo {
   width: 6rem;
   display: inline;
+  left-margin: 1rem;
 }
   
