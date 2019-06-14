@@ -55,7 +55,7 @@ body {
 }
 
 .iicrclogo {
-  width: 12.5rem;
+  width: 14rem;
   display: inline;
 }
 
@@ -63,5 +63,6 @@ body {
   width: 6rem;
   display: inline;
   left-margin: 1rem;
+  vertical-align: top;
 }
   
