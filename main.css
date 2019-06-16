@@ -48,10 +48,11 @@ body {
 }
 
 .galimg {
-  width:30vw;
-  height:30vw;
+  width:10vw;
+  height:10vw;
   object-fit:contain;
   margin: 1em 0;
+  float: left;
 }
 
 /* Time for some logo editing, for the header */
