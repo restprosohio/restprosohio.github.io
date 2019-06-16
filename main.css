@@ -50,8 +50,8 @@ body {
 .galimg {
   width:15em;
   height:15em;
+  object-fit: contain;
   margin: 1em 0;
-  float: left;
 }
 
 /* Time for some logo editing, for the header */
